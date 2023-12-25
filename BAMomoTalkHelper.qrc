@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/BAMomoTalkHelper">
+        <file>src/kizunaEvent.jpg</file>
+        <file>src/menuButton.jpg</file>
+        <file>src/OKButton.jpg</file>
+        <file>src/question.jpg</file>
+        <file>src/reply.jpg</file>
+        <file>src/screen.jpg</file>
+        <file>src/skip.jpg</file>
+        <file>src/startKizunaEvent.jpg</file>
+        <file>src/stone.jpg</file>
+        <file>src/test.jpg</file>
+        <file>src/unread1.jpg</file>
+        <file>src/unread2.jpg</file>
+    </qresource>
+</RCC>
